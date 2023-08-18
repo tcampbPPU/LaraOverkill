@@ -73,15 +73,6 @@ If your time is too valuable to read the installation instructions, follow these
 git clone ...; composer install; npm install; cp .env.example .env; php artisan key:generate; npm run dev; php artisan serve
 ```
 
-- Clone repo
-- `composer install`
-- `npm install`
-- Copy `.env.example` to `.env`
-- `php artisan key:generate`
-- `npm run dev`
-
-> TL;DR: `git clone ...; composer install; npm install; cp .env.example .env; php artisan key:generate; npm run dev`
-
 ## Resources
 
 - [Laravel](https://laravel.com)
