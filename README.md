@@ -2,7 +2,7 @@
 
 A starter kit for the Laravel framework.
 
-> [!WARNING]
+> [!WARNING]  
 > This starter kit is for 10x developers only. If you are not a 10x developer, please leave this repo immediately.
 
 LaraOverkill is an elite starter kit for elite developers. It includes the most advanced technologies your project needs to be successful. It comes batteries included with the following features:
@@ -81,7 +81,6 @@ git clone ...; composer install; npm install; cp .env.example .env; php artisan 
 - [Shadcn](https://ui.shadcn.com)
 - [GraphQL](https://www.apollographql.com/docs/react/get-started)
 - [Lighthouse PHP](https://lighthouse-php.com)
-
 
 
 If you made it this far you have successfully over engineered your project idea. Congratulations on your billions of dollars!
