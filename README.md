@@ -2,9 +2,8 @@
 
 A starter kit for the Laravel framework.
 
-> **WARNING:**
-
-This starter kit is for 10x developers only. If you are not a 10x developer, please leave this repo immediately.
+> [!WARNING]
+> This starter kit is for 10x developers only. If you are not a 10x developer, please leave this repo immediately.
 
 LaraOverkill is an elite starter kit for elite developers. It includes the most advanced technologies your project needs to be successful. It comes batteries included with the following features:
 - React
