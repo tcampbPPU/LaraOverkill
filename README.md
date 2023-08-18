@@ -26,7 +26,7 @@ If you already don't have NeoVim installed, you are not a true 10x developer and
 2. Clone this repo
 
 ```bash
-git clone ...
+git clone git@github.com:tcampbPPU/LaraOverkill.git
 ```
 
 3. Install composer dependencies
@@ -69,7 +69,7 @@ php artisan serve
 
 If your time is too valuable to read the installation instructions, follow these steps:
 ```bash
-git clone ...; composer install; npm install; cp .env.example .env; php artisan key:generate; npm run dev; php artisan serve
+git clone git@github.com:tcampbPPU/LaraOverkill.git; composer install; npm install; cp .env.example .env; php artisan key:generate; npm run dev; php artisan serve
 ```
 
 ## Resources
